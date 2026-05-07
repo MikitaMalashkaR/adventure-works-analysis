@@ -13,4 +13,5 @@ This project analyzes sales, customer behavior, and product returns for Adventur
 - Revenue is distributed almost equally between male and female customers across all countries, with no country showing a gender gap above 10%. This suggests that gender-based marketing segmentation would not be effective for this business.
 
 **Data source:** Maven Analytics — Adventure Works Dataset
+
 **Tools:** Python, pandas, matplotlib, SQL
